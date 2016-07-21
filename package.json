@@ -1,6 +1,6 @@
 {
   "name": "redirect",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "author": "sasa+1 <sasaplus1@gmail.com>",
   "description": "redirect to URI",
   "main": "./index.js",
